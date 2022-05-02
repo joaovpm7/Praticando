@@ -1,0 +1,45 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 02/05/2022, 08:48:38
+    Author     : sala305b
+*/
+
+
+.fundo{
+    background-image: url('https://gamehall.com.br/wp-content/uploads/2019/02/Tibia-Background-Artwork.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: 'Numans', sans-serif;
+}
+
+.imgborda {
+    background-image: url(../img/bordas.PNG);
+    background-repeat: no-repeat;
+    margin-left: 181px;
+    margin-top: 162px;
+    font-family: Verdana,Arial,Times New Roman,sans-serif;
+}
+
+.nav {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 0;
+    list-style: none;
+    margin-right: 243px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.b{
+  margin-left: 10px;  
+}
+
