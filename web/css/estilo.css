@@ -15,7 +15,7 @@ and open the template in the editor.
     background-repeat: no-repeat;
     height: 100%;
     font-family: 'Numans', sans-serif;
-    
+
 }
 
 .imgborda {
@@ -40,12 +40,13 @@ a {
 }
 
 .b{
-  margin-left: 10px;  
+    margin-left: 10px;  
 }
 
 .colunaa{
     background-image: url(../img/coluna.PNG);
     background-repeat: no-repeat;
+    margin-left: -40px
 }
 
 .btncoluna{
@@ -76,11 +77,16 @@ a {
 .imgprincipal{
     background-image: url(../img/imgprincipal.PNG);
     background-repeat: no-repeat;
-    margin-left: 230px;
+    margin-left: 174px;
     margin-bottom: 100px;
 }
 
 p{
     color: white;
 }
+
+.imgtxt{
+    height: 20px;
+}
+
 
