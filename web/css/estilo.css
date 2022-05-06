@@ -114,3 +114,41 @@ p{
     background-repeat: no-repeat;
     margin-left: -40px;  
 }
+
+.colunaa3{
+    background-image: url(../img/coluna.PNG);
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    margin-left: -40px;
+}
+
+.subprincipal{
+    background-image: url(../img/subprincipal.PNG);
+    background-repeat: no-repeat;
+    width: 800px;
+    margin-left: 40px;
+}
+
+.sobretxt2{
+    color: white;
+    text-align: left;
+    margin-top: 28px;
+    padding-top: 15px;
+    padding-right: 0px;
+    margin-left: 58px;
+    font-size: 12px;
+    height: 38px;
+    width: 500px;
+}
+
+.noticia{
+    font-size: 16px;
+}
+
+.sobrep2{
+    color: black;
+    font-size: 16px;
+    margin-left: 60px;
+    margin-top: -45px;
+    height: 400px;
+}
